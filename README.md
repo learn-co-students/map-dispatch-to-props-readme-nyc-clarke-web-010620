@@ -1,5 +1,7 @@
 # Mapping Dispatch to Props
 
+
+
 ## Objectives
 
 - Write functions that connect Redux actions to component events
